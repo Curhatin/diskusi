@@ -1,10 +1,10 @@
-# Diskusi Curhatin
+# Curhatin Discussion
 
-(Deskripsi singkat terkait aplikasi).
+(Short description about the application).
 
 (Screenshot images)
 
-## Anggota
+## Members
 
 - Muhsin
 - Albert
